@@ -1,6 +1,6 @@
 # ASPxCardView - How to programmatically change a column's filter in the FilterExpression
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t282469)**
+**[[Run Online]](https://codecentral.devexpress.com/t282469/)**
 <!-- run online end -->
 
 
